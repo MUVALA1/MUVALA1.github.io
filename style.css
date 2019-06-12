@@ -6,8 +6,41 @@ body{
 	line-height: 1.5em;
 	margin:center;
 }
-
-
+.content{
+	text-align: center;
+}
+.content h1{
+	text-decoration: underline;
+}
+.content h2{
+	text-decoration: underline;
+}
+.content h3{
+	text-decoration: underline;
+}
+a:hover{
+	color: red;
+}
+#container{
+	margin-top:20px;
+}
+#navbar{
+	float:left;
+}
+.content{
+	text-align: center;
+}
+#profile-link{
+	padding-right: 100px;
+	margin: auto;
+	text-decoration:underline;
+	list-style: none;
+	list-style-type: none;
+}
+#welcome-section{
+	color: blue;
+	background-color: yellow;
+}
 
 
 
