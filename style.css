@@ -26,6 +26,8 @@ a:hover{
 }
 #navbar{
 	float:left;
+	position:absolute;
+	padding-top: 20px
 }
 .content{
 	text-align: center;
